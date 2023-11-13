@@ -1,4 +1,4 @@
 CTransformers
 gradio
 langchain
-Torch
+torch
